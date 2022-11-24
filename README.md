@@ -139,7 +139,7 @@ npm run ios
 
 ## Credit
 
-I copied and rewrite the codebase from https://github.com/caglardurmus/react-native-insta-story in this project. I created this project because I was needed a better one.
+I copied and rewrite the codebase from https://github.com/ridvanaltun/react-native-story-component in this project. I created this project because I was needed a better one.
 
 ## Contributing
 
