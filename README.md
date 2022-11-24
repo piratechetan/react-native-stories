@@ -47,7 +47,7 @@
 | textStyle            | Avatar text style                        | TextStyle                                        |               |
 | storyListStyle       | Story list view style                    | ViewStyle                                        |               |
 
-## Usage
+<!-- ## Usage
 
 ```jsx
 import Stories from 'react-native-story-component';
@@ -108,7 +108,7 @@ const App = () => {
     />
   );
 };
-```
+``` -->
 <!-- 
 ## Example App
 
