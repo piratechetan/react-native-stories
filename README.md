@@ -1,11 +1,11 @@
-# react-native-story-component <!-- omit in toc -->
+# react-native-stories <!-- omit in toc -->
 
-[![npm version](https://img.shields.io/npm/v/react-native-story-component.svg)](https://npmjs.com/package/react-native-story-component)
+<!-- [![npm version](https://img.shields.io/npm/v/react-native-story-component.svg)](https://npmjs.com/package/react-native-story-component)
 [![CircleCI](https://circleci.com/gh/ridvanaltun/react-native-story-component/tree/master.svg?style=shield)](https://circleci.com/gh/ridvanaltun/react-native-story-component/tree/master)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![license](https://img.shields.io/npm/l/react-native-story-component.svg)](https://github.com/ridvanaltun/react-native-story-component/blob/master/LICENSE)
+[![license](https://img.shields.io/npm/l/react-native-story-component.svg)](https://github.com/ridvanaltun/react-native-story-component/blob/master/LICENSE) -->
 
-> A decent story component for React-Native
+<!-- > A decent story component for React-Native
 
 | Preview                                                           |
 | ----------------------------------------------------------------- |
@@ -13,19 +13,16 @@
 
 # Table of Contents <!-- omit in toc -->
 
-- [Getting started](#getting-started)
+<!-- - [Getting started](#getting-started)
 - [Props](#props)
 - [Usage](#usage)
 - [Example App](#example-app)
 - [Credit](#credit)
 - [Contributing](#contributing)
-- [License](#license)
-
+- [License](#license) -->
 ## Getting started
 
-```sh
-npm i react-native-story-component
-```
+
 
 ## Props
 
@@ -112,7 +109,7 @@ const App = () => {
   );
 };
 ```
-
+<!-- 
 ## Example App
 
 ```sh
@@ -135,12 +132,12 @@ npm run android
 
 # run for ios
 npm run ios
-```
+``` -->
 
 ## Credit
 
 I copied and rewrite the codebase from https://github.com/ridvanaltun/react-native-story-component in this project. I created this project because I was needed a better one.
-
+<!-- 
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
@@ -148,3 +145,4 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 ## License
 
 [MIT](LICENSE)
+ -->
