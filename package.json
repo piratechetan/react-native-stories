@@ -27,8 +27,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ridvanaltun/react-native-story-component.git",
-    "baseUrl": "https://github.com/ridvanaltun/react-native-story-component"
+    "url": "git+https://github.com/piratechetan/react-native-stories.git",
+    "baseUrl": "https://github.com/piratechetan/react-native-stories.git"
   },
   "keywords": [
     "react-native",
